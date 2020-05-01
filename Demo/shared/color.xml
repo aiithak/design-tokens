@@ -1,0 +1,23 @@
+{
+    "color": {
+        "background": {
+            "button": {
+                "primary": {
+                    "value": "#1a9352"
+                }
+            },
+            "page": {
+                "primary": {
+                    "value": "#fafafa"
+                }
+            }
+        },
+        "foreground": {
+            "page": {
+                "primary": {
+                    "value": "#2c3530"
+                }
+            }
+        }
+    }
+}

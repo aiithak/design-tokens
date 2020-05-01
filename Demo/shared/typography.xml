@@ -1,0 +1,15 @@
+{
+    "typography": {
+        "title": {
+            "primary": {
+                "large": {
+                    "fontFamily": "Roboto",
+                    "fontStyle": "Regular",
+                    "fontSize": 48,
+                    "textCase": "ORIGINAL",
+                    "textDecoration": "NONE"
+                }
+            }
+        }
+    }
+}
